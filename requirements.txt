@@ -1,6 +1,4 @@
 discord
-random
 collections
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
 numpy
