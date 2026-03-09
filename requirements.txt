@@ -1,0 +1,7 @@
+discord
+re
+random
+collections
+matplotlib.pyplot
+matplotlib.ticker
+numpy
