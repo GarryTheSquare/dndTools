@@ -1,5 +1,4 @@
 discord
-re
 random
 collections
 matplotlib.pyplot
